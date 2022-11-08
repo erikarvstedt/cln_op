@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Just parses listfunds output to display available onchain balance"
 #
